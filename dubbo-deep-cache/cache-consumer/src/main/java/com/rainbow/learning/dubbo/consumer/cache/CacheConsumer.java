@@ -1,6 +1,6 @@
-package com.rainbow.learning.dubbo.cache.consumer;
+package com.rainbow.learning.dubbo.consumer.cache;
 
-import com.rainbow.learning.dubbo.cache.api.CacheService;
+import com.rainbow.learning.dubbo.api.cache.CacheService;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class CacheConsumer {

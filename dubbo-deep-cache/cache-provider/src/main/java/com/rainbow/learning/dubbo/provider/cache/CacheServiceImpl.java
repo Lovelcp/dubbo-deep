@@ -1,6 +1,6 @@
-package com.rainbow.learning.dubbo.cache.provider;
+package com.rainbow.learning.dubbo.provider.cache;
 
-import com.rainbow.learning.dubbo.cache.api.CacheService;
+import com.rainbow.learning.dubbo.api.cache.CacheService;
 
 import java.util.concurrent.atomic.AtomicInteger;
 

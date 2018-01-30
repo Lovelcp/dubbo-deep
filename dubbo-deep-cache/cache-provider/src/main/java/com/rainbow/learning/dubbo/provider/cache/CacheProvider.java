@@ -1,4 +1,4 @@
-package com.rainbow.learning.dubbo.cache.provider;
+package com.rainbow.learning.dubbo.provider.cache;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

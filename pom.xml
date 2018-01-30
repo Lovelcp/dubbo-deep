@@ -25,14 +25,14 @@
             <version>${dubbo.version}</version>
         </dependency>
 
-        <!--  zookeeper -->
+        <!-- zookeeper -->
         <dependency>
             <groupId>org.apache.zookeeper</groupId>
             <artifactId>zookeeper</artifactId>
             <version>${zookeeper.version}</version>
         </dependency>
 
-        <!-- zkclient  -->
+        <!-- zkclient -->
         <dependency>
             <groupId>com.101tec</groupId>
             <artifactId>zkclient</artifactId>

@@ -26,7 +26,7 @@
 
     <dubbo:protocol name="dubbo" port="20880"/>
 
-    <dubbo:service interface="com.rainbow.learning.dubbo.cache.api.CacheService" ref="cacheService"/>
+    <dubbo:service interface="com.rainbow.learning.dubbo.api.cache.CacheService" ref="cacheService"/>
 
-    <bean id="cacheService" class="com.rainbow.learning.dubbo.cache.provider.CacheServiceImpl"/>
+    <bean id="cacheService" class="com.rainbow.learning.dubbo.provider.cache.CacheServiceImpl"/>
 </beans>

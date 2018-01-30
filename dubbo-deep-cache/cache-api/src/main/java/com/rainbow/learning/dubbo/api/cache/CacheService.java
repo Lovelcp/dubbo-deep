@@ -1,4 +1,4 @@
-package com.rainbow.learning.dubbo.cache.api;
+package com.rainbow.learning.dubbo.api.cache;
 
 public interface CacheService {
     String findCache(String id);
