@@ -1,5 +1,5 @@
 package com.rainbow.learning.dubbo.api.load_balance;
 
-public interface LeastActiveLBService {
+public interface LBService {
     String echo(String msg);
 }
